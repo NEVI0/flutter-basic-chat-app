@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1023652959119",
+    "project_id": "chat-app-7a73d",
+    "storage_bucket": "chat-app-7a73d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023652959119:android:555da4c28e82040b0131fa",
+        "android_client_info": {
+          "package_name": "com.nevioapp.flutter_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023652959119-jieuv4vperuvm8hbg3po4uolp3c6qhs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYB72S32BHchV-rBE6IrcOeqGP8OPKrpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023652959119-jieuv4vperuvm8hbg3po4uolp3c6qhs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
